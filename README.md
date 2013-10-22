@@ -1,44 +1,29 @@
 # MATLAB HS13 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed)
+> * Group Name: … we are searching our identity…
+> * Group participants names:  Asoni Elena, Minelli Paolo
+> * Project Title: Simulations about the new traffic plane of Lugano (PVP)
 
 ## General Introduction
 
-(States your motivation clearly: why is it important / interesting to solve this problem?)
-(Add real-world examples, if any)
-(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
-
-## The Model
-
-(Define dependent and independent variables you want to study. Say how you want to measure them.) (Why is your model a good abtraction of the problem you want to study?) (Are you capturing all the relevant aspects of the problem?)
-
+In the last ten years the little city of Lugano  began to show some traffic problems. In order to improve the circulation a new drive plane was introduced. 
+The project was quite revolutionary, a new tunnel (Vedeggio-Cassarate)  was built  and   some important access way have been closed in one direction in order to get a stronger, unidirectional traffic flow. Despite that fact, many people don’t appreciate this change for the following reasons.
 
 ## Fundamental Questions
 
-(At the end of the project you want to find the answer to these questions)
-(Formulate a few, clear questions. Articulate them in sub-questions, from the more general to the more specific. )
+The new traffic plane is really better? In particular:
+How is the expected drive time changed?
+How is the expected time using public transports changed?
+Is the new traffic plane good or bad conditioned?
+What about the ecological impact? 
+What kind of consequences will it have on vendors?
 
-
-## Expected Results
-
-(What are the answers to the above questions that you expect to find before starting your research?)
-
-
-## References 
-
-(Add the bibliographic references you intend to use)
-(Explain possible extension to the above models)
-(Code / Projects Reports of the previous year)
-
-
-## Research Methods
-
-(Cellular Automata, Agent-Based Model, Continuous Modeling...) (If you are not sure here: 1. Consult your colleagues, 2. ask the teachers, 3. remember that you can change it afterwards)
-
+## References
+Skript: numerical methods I (not available without special password)
+Skript: Algorithmen und Komplexität, Angelika Steger HS 13
 
 ## Other
 
-(mention datasets you are going to use)
+Datasets:
+Old/new traffic plane ( as graph), old/new public transport plane time, main building situation, city map
